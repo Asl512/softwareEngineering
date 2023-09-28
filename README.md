@@ -3,3 +3,4 @@
 ## Teams
 
 - Kucherbayev Aslan
+- Газизулин Расим
