@@ -1,1 +1,5 @@
-# softwareEngineering
+# Software Engineering
+
+## Teams
+
+- Kucherbayev Aslan
